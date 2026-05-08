@@ -370,6 +370,3 @@ efficient, scalable, and maintainable Python applications.
 
 7. Pandas Documentation  
    https://pandas.pydata.org/docs/
-
-8. Matplotlib Documentation  
-   https://matplotlib.org/stable/index.html
